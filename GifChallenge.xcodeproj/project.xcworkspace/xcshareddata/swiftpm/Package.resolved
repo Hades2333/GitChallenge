@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "libwebp",
+        "repositoryURL": "https://github.com/SDWebImage/libwebp-Xcode.git",
+        "state": {
+          "branch": null,
+          "revision": "2b3b43faaef54d1b897482428428357b7f7cd08b",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
+          "version": "6.5.0"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "02283906996de3de7e582c885d98e4aff60f18b0",
+          "version": "5.12.4"
+        }
+      },
+      {
+        "package": "SDWebImageWebPCoder",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageWebPCoder",
+        "state": {
+          "branch": null,
+          "revision": "95a6838df13bc08d8064cf7e048b787b6e52348d",
+          "version": "0.8.4"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

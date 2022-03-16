@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  GifChallenge
+
+  Created by Mikalai on 13.03.2022.
+  
+*/
+
+"viewControllerExtension_okButton" = "Понял";
+
+"displayError_clientErrorName" = "Клиентская ошибка";
+"displayError_emptyData" = "Ошибка получения пустых данных";
+"displayError_encodingFailed" = "Ошибка кодирования";
+"displayError_jsonParsingFailure" = "Ошибка преобразования";
+"displayError_missingURL" = "Неправильный URL";
+"displayError_serverError" = "Серверная ошибка";
+"displayError_connectionError" = "Ошибка соединения";
+"displayError_redirectionError" = "Ошибка переадресации";
+"displayError_informationalError" = "Информационная ошибка";
+
+"networkError_clientErrorDescription" = "Запрос содержит неправильный синтаксис или не может быть выполнен";
+"networkError_emptyDataDescription" = "Получены пустые данные";
+"networkError_encodingFailedDescription" = "Не удалось закодировать данные";
+"networkError_jsonParsingFailureDescription" = "Ошибка парсинга JSON";
+"networkError_missingURLDescription" = "Не удалось преобразовать URL";
+"networkError_serverErrorDescription" = "Серверу не удалось выполнить явно допустимый запрос";
+"networkyError_connectionErrorDescription" = "Ваше интернет-соединение нестабильно или отсутствует";
+"networkError_redirectionErrorDescription" = "Для выполнения запроса необходимо предпринять дополнительные действия";
+"networkError_informationalErrorDescription" = "Запрос получен, процесс продолжается";
